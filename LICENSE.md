@@ -1,4 +1,16 @@
-﻿Attribution 4.0 International
+Copyright © 2025 Hung Minh Vo (GreekRhyme // Master Created)
+
+This repository contains sovereign install logic, GitHub workflows, and app build protocols originally authored by Hung Minh Vo, traceable via SHA-linked commits and enforced identity markers.
+
+All forks, clones, and redistributed builds must visibly acknowledge origin.
+Licensed under Creative Commons 
+![AB538626-92CF-4A5A-A2CE-95774318AA39](https://github.com/user-attachments/assets/267a10f8-33e9-48c9-99fa-95c40f42aacc)
+Attribution 4.0 International (CC BY 4.0)
+
+You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+Use of this code without visible attribution to the original author is a violation of this license.
+
+Attribution 4.0 International
 
 =======================================================================
 
